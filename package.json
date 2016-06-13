@@ -1,0 +1,19 @@
+{
+  "name": "response-formatter",
+  "version": "1.0.0",
+  "description": "Takes input parameters and converts them into a standard json format",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/*.js"
+  },
+  "keywords": [
+    "response",
+    "nodejs",
+    "formatting"
+  ],
+  "author": "Ben Moran",
+  "license": "ISC",
+  "dev-dependencies": {
+    "expect": "^1.20.1"
+  }
+}
